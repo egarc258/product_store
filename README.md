@@ -60,8 +60,8 @@ npm start
 Access the App Open your browser and navigate to http://localhost:3000.
 
 Project Structure
-bash
-Copy code
+
+
 product-management-app/
 │
 ├── backend/
@@ -78,8 +78,10 @@ product-management-app/
 │   └── public/
 │
 └── README.md
+
+
 API Endpoints
-Base URL: http://localhost:5000
+Base URL: http://localhost:5001
 GET /api/products: Retrieve all products.
 POST /api/products: Add a new product.
 PUT /api/products/:id: Update an existing product.
